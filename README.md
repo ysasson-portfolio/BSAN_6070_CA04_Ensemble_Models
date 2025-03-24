@@ -6,9 +6,7 @@
 
 ## Necessary Libraries and Versions
 
-* os (Version 3.13.2)
 * Numpy (Version 1.18.0)
-* Collections (import Counter)
 * Pandas (Version 2.2.3)
 * Scikit Learn (Version 1.6.1)
 * Matplot_lib (Version 3.10.0)

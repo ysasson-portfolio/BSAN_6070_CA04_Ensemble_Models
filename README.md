@@ -16,6 +16,7 @@
 * Scikit Learn (RandomForestClassifier, AdaBoostClassifier, GradientBoostingClassifier from sklearn.ensemble) (Version 1.6.1)
 * XGBoost (XGBClassifier) (Version 3.0.0)
 * Scikit Learn (LabelEncoder function from sklearn.preprocessing) (Version 1.6.1)
+* Scikit Learn (OrdinalEncoder function from sklearn.preprocessing) (Version 1.6.1)
 
 
 ## Data Set and the Source
